@@ -6,8 +6,8 @@
 -->
 
 
-- 🔭 I’m currently working on [CommuniTea](https://github.com/mnmccoy95/CommuniTea), a gated social media app for lolitas.
-- 💬 My skills/languages include C#, .NET, React.js, SQL, HTML, CSS, JavaScript, and more.
+- 💻 I’m currently working with [Clear Measure](https://clearmeasure.com/).
+- 💬 My skills/languages include C#, .NET, Terraform, Serverless, SQL, Blazor, many AWS services, and more.
 - 🌱 I'm learning C++, Python, ASL, and Japanese.
 (Like how I mixed languages and languages?)
 - 📫 Contact me at MNMcCoy95@gmail.com or via [LinkedIn](http://linkedin.com/in/morrigan-mccoy).
