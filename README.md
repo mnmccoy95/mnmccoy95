@@ -6,7 +6,7 @@
 -->
 
 
-- 💻 I’m currently working with [Virginia Community Capital](https://www.vacommunitycapital.org/).
+- 💻 I’m currently working with [VCC Social Enterprises](https://www.vacommunitycapital.org/).
 - 💬 My skills/languages include C#, .NET, Terraform, Serverless, SQL, Blazor, many AWS services, and more.
 - 🌱 I'm learning C++, Python, ASL, and Japanese.
 (Like how I mixed languages and languages?)
