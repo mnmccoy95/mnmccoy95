@@ -6,11 +6,9 @@
 -->
 
 
-- 💻 I’m currently working with [VCC Social Enterprises](https://www.vacommunitycapital.org/).
 - 💬 My skills/languages include C#, .NET, Terraform, Serverless, SQL, Blazor, many AWS services, and more.
 - 🌱 I'm learning C++, Python, ASL, and Japanese.
 (Like how I mixed languages and languages?)
-- 📫 Contact me at MNMcCoy95@gmail.com or via [LinkedIn](http://linkedin.com/in/morrigan-mccoy).
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: My favorite hobby is reptile husbandry! 🦎
 
